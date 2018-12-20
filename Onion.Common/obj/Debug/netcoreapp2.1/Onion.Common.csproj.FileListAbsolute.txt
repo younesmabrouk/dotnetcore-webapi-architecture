@@ -1,0 +1,17 @@
+F:\Workspace\DotnetApi\Onion.Common\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Workspace\DotnetApi\Onion.Common\bin\Debug\netcoreapp2.1\Onion.Common.deps.json
+F:\Workspace\DotnetApi\Onion.Common\bin\Debug\netcoreapp2.1\Onion.Common.dll
+F:\Workspace\DotnetApi\Onion.Common\bin\Debug\netcoreapp2.1\Onion.Common.pdb
+F:\Workspace\DotnetApi\Onion.Common\bin\Debug\netcoreapp2.1\Onion.Data.dll
+F:\Workspace\DotnetApi\Onion.Common\bin\Debug\netcoreapp2.1\Onion.Entities.dll
+F:\Workspace\DotnetApi\Onion.Common\bin\Debug\netcoreapp2.1\Onion.Service.dll
+F:\Workspace\DotnetApi\Onion.Common\bin\Debug\netcoreapp2.1\Onion.Data.pdb
+F:\Workspace\DotnetApi\Onion.Common\bin\Debug\netcoreapp2.1\Onion.Service.pdb
+F:\Workspace\DotnetApi\Onion.Common\bin\Debug\netcoreapp2.1\Onion.Entities.pdb
+F:\Workspace\DotnetApi\Onion.Common\obj\Debug\netcoreapp2.1\Onion.Common.csprojAssemblyReference.cache
+F:\Workspace\DotnetApi\Onion.Common\obj\Debug\netcoreapp2.1\Onion.Common.csproj.CoreCompileInputs.cache
+F:\Workspace\DotnetApi\Onion.Common\obj\Debug\netcoreapp2.1\Onion.Common.AssemblyInfoInputs.cache
+F:\Workspace\DotnetApi\Onion.Common\obj\Debug\netcoreapp2.1\Onion.Common.AssemblyInfo.cs
+F:\Workspace\DotnetApi\Onion.Common\obj\Debug\netcoreapp2.1\Onion.Common.csproj.CopyComplete
+F:\Workspace\DotnetApi\Onion.Common\obj\Debug\netcoreapp2.1\Onion.Common.dll
+F:\Workspace\DotnetApi\Onion.Common\obj\Debug\netcoreapp2.1\Onion.Common.pdb

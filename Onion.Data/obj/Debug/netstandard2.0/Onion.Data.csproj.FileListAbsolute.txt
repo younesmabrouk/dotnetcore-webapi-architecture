@@ -1,0 +1,17 @@
+C:\Users\Taysir\Desktop\OnionArch-master\Onion.Data\bin\Debug\netstandard2.0\Onion.Data.deps.json
+C:\Users\Taysir\Desktop\OnionArch-master\Onion.Data\bin\Debug\netstandard2.0\Onion.Data.dll
+C:\Users\Taysir\Desktop\OnionArch-master\Onion.Data\bin\Debug\netstandard2.0\Onion.Data.pdb
+C:\Users\Taysir\Desktop\OnionArch-master\Onion.Data\obj\Debug\netstandard2.0\Onion.Data.csprojAssemblyReference.cache
+C:\Users\Taysir\Desktop\OnionArch-master\Onion.Data\obj\Debug\netstandard2.0\Onion.Data.csproj.CoreCompileInputs.cache
+C:\Users\Taysir\Desktop\OnionArch-master\Onion.Data\obj\Debug\netstandard2.0\Onion.Data.AssemblyInfoInputs.cache
+C:\Users\Taysir\Desktop\OnionArch-master\Onion.Data\obj\Debug\netstandard2.0\Onion.Data.AssemblyInfo.cs
+C:\Users\Taysir\Desktop\OnionArch-master\Onion.Data\obj\Debug\netstandard2.0\Onion.Data.dll
+C:\Users\Taysir\Desktop\OnionArch-master\Onion.Data\obj\Debug\netstandard2.0\Onion.Data.pdb
+F:\Workspace\DotnetApi\Onion.Data\bin\Debug\netstandard2.0\Onion.Data.deps.json
+F:\Workspace\DotnetApi\Onion.Data\bin\Debug\netstandard2.0\Onion.Data.dll
+F:\Workspace\DotnetApi\Onion.Data\bin\Debug\netstandard2.0\Onion.Data.pdb
+F:\Workspace\DotnetApi\Onion.Data\obj\Debug\netstandard2.0\Onion.Data.csproj.CoreCompileInputs.cache
+F:\Workspace\DotnetApi\Onion.Data\obj\Debug\netstandard2.0\Onion.Data.AssemblyInfoInputs.cache
+F:\Workspace\DotnetApi\Onion.Data\obj\Debug\netstandard2.0\Onion.Data.AssemblyInfo.cs
+F:\Workspace\DotnetApi\Onion.Data\obj\Debug\netstandard2.0\Onion.Data.dll
+F:\Workspace\DotnetApi\Onion.Data\obj\Debug\netstandard2.0\Onion.Data.pdb

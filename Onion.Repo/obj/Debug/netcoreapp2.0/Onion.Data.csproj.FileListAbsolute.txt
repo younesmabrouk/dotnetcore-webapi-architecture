@@ -1,0 +1,13 @@
+F:\Workspace\DotnetApi\Onion.Repo\bin\Debug\netcoreapp2.0\appsettings.json
+F:\Workspace\DotnetApi\Onion.Repo\bin\Debug\netcoreapp2.0\Onion.Data.deps.json
+F:\Workspace\DotnetApi\Onion.Repo\bin\Debug\netcoreapp2.0\Onion.Data.dll
+F:\Workspace\DotnetApi\Onion.Repo\bin\Debug\netcoreapp2.0\Onion.Data.pdb
+F:\Workspace\DotnetApi\Onion.Repo\bin\Debug\netcoreapp2.0\Onion.Entities.dll
+F:\Workspace\DotnetApi\Onion.Repo\bin\Debug\netcoreapp2.0\Onion.Entities.pdb
+F:\Workspace\DotnetApi\Onion.Repo\obj\Debug\netcoreapp2.0\Onion.Data.csprojAssemblyReference.cache
+F:\Workspace\DotnetApi\Onion.Repo\obj\Debug\netcoreapp2.0\Onion.Data.csproj.CoreCompileInputs.cache
+F:\Workspace\DotnetApi\Onion.Repo\obj\Debug\netcoreapp2.0\Onion.Data.AssemblyInfoInputs.cache
+F:\Workspace\DotnetApi\Onion.Repo\obj\Debug\netcoreapp2.0\Onion.Data.AssemblyInfo.cs
+F:\Workspace\DotnetApi\Onion.Repo\obj\Debug\netcoreapp2.0\Onion.Data.csproj.CopyComplete
+F:\Workspace\DotnetApi\Onion.Repo\obj\Debug\netcoreapp2.0\Onion.Data.dll
+F:\Workspace\DotnetApi\Onion.Repo\obj\Debug\netcoreapp2.0\Onion.Data.pdb
